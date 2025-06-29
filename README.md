@@ -1,5 +1,3 @@
-# Credit Card Analysis Dashboards
-
 # 💳 Credit Card Analysis Dashboards
 
 This repository showcases two interactive dashboards built using **Power BI** to analyze **credit card customer behavior** and **transaction trends**. The dashboards provide actionable insights for financial institutions to optimize their credit card services.
